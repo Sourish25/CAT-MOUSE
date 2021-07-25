@@ -8,7 +8,7 @@ var mouseImg2, catImg2;
 var bg,bgImg;
 
 function preload() {
-bgImg = loadImage ("Images/garden.png");
+bgImg = loadImage ("images/garden.png");
 
 catAnim = loadAnimation ("images/cat2.png","images/cat3.png");
 catImg1 = loadAnimation ("images/cat4.png");
